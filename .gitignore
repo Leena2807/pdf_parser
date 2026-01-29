@@ -22,7 +22,7 @@ Thumbs.db
 *.db
 *.sqlite3
 
-# Uploaded PDFs (optional – uncomment if needed)
+# Uploaded PDFs 
 # uploads/
 # *.pdf
 
@@ -31,5 +31,5 @@ build/
 dist/
 *.egg-info/
 
-# Node modules (if frontend tooling added later)
+# Node modules 
 node_modules/
