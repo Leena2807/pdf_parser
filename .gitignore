@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database / local data
+*.db
+*.sqlite3
+
+# Uploaded PDFs (optional – uncomment if needed)
+# uploads/
+# *.pdf
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Node modules (if frontend tooling added later)
+node_modules/
