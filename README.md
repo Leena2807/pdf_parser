@@ -1,7 +1,3 @@
-
-
-⸻
-
 📄 PDF Result Parser
 
 📌 Project Overview
