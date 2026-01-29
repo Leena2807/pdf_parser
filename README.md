@@ -1,5 +1,4 @@
-Here’s a clean, simple, internship-ready README for your PDF Result Parser project.
-No overclaiming. No buzzwords. Easy to understand.
+
 
 ⸻
 
